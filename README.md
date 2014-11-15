@@ -17,3 +17,8 @@ This is for Hack RPI
 2. lists
 
 This is some `inline` code.
+
+	This is a block of code
+	This is the second line of code
+	// this is a code comment
+
