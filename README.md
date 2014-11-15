@@ -12,3 +12,8 @@ This is for Hack RPI
 - a
 - bulleted
 - list
+
+1. numbered
+2. lists
+
+This is some `inline` code.
