@@ -17,9 +17,12 @@ This is for Hack RPI
 2. lists
 
 This is some `inline` code.
+<<<<<<< HEAD
 
 	This is a block of code
 	This is the second line of code
 	// this is a code comment
 
 *this is italics text* **this is bold text** [this is a hyperlink](http://www.google.com).
+=======
+>>>>>>> parent of 07c0adc... updated readme
